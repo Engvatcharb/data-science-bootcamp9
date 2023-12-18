@@ -1,0 +1,26 @@
+# Project 1:  Pizza Restaurant (By SQL)
+
+## **Description**
+
+This assignment aims to create an ordering pizza system for a restaurant, with the following details:
+
+1. create at least 3 Tables: 
+    1. T. Customers
+    2. T. Orders
+    3. T. Pizza menu
+2. Develop 3 Queries using the following techniques: 
+    1. Join
+    2. Subqueries or WITH
+    3. Aggregation Function
+
+## **Requirement for Pizza Restaurant**
+
+1. This system should maintain customer profiles for individuals who have placed pizza orders.
+2. Provide a monthly summary of Pizza orders, including the number of pizzas sold and the corresponding revenue for each month.
+3. Generate a summary of the ingredients used in pizza preparation for each month.
+
+## ER-Diagram
+
+![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5aba59b2-d1d7-4eff-acae-595e2c1f4340/6c775127-2118-408f-b6f4-685125cabb1b/Untitled.png)
+
+## **Script Query**
