@@ -1,4 +1,6 @@
 ## homework
+install.packages("nycflights13")
+install.packages("tidyverse")
 
 ## transform nycflights13
 
