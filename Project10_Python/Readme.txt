@@ -10,5 +10,6 @@ Starting Python and Making Project
   1. Project making OOP by using class DataAnalyst and 3 method in this class (hw_class.py)
   2. Project Game : PaoYingChub (hw_PaoYingChub.py)
 ## Part 2 : Essential Python for Data Analyst
-1. Basic syntax using in data analyst
+1. Basic syntax using in data analyst (Essential_Python_for_Data_Analyst.ipynb)
+
   
