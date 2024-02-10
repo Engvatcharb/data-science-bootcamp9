@@ -15,5 +15,6 @@ Starting Python and Making Project
 - Make 4 Project for Python
 1. Write function for ATM Class (HW_ClassATM.py)
 2. Call API and put to dataframe and print out to file .csv (HW_APIStarwar_to_dataframe.py)
+3. Call Public API in type of text-based and manipulate JSON (HW_CallAPI_Public.py)
 
   
