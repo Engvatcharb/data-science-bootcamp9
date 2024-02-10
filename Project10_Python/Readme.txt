@@ -13,6 +13,7 @@ Starting Python and Making Project
 1. Basic syntax using in data analyst (Essential_Python_for_Data_Analyst.ipynb)
 2. Example Code of Calling API (CallAPI.py)
 - Make 4 Project for Python
-1. Write function for ATM Class (HW_ClassATM)
+1. Write function for ATM Class (HW_ClassATM.py)
+2. Call API and put to dataframe and print out to file .csv (HW_APIStarwar_to_dataframe.py)
 
   
