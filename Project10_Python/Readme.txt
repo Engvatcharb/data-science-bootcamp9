@@ -12,5 +12,7 @@ Starting Python and Making Project
 ## Part 2 : Essential Python for Data Analyst
 1. Basic syntax using in data analyst (Essential_Python_for_Data_Analyst.ipynb)
 2. Example Code of Calling API (CallAPI.py)
+- Make 4 Project for Python
+1. Write function for ATM Class (HW_ClassATM)
 
   
